@@ -98,7 +98,8 @@ From left to right, the images are the **Tbackground, subject, collage, and the 
         <img src="./assets/example-06.png" width="100%">
     </h4>
 </div>
-Please note that if the generated results contain significant artifacts, adjust the random seed `--seed` to obtain the desired outcome. We demonstrate that different random seeds can produce varying image quality in the demo.
+
+:fountain_pen: Please note that if the generated results contain significant artifacts, adjust the random seed `--seed` to obtain the desired outcome. We demonstrate that different random seeds can produce varying image quality in the demo.
 
 
 
