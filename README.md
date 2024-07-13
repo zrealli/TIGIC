@@ -60,37 +60,37 @@ From left to right, the images are the background, subject, collage, and the res
 'a photo of a pixel cartoon'
 <div>
     <h4 align="center">
-        <img src="./assets/example-01.png" width="70%">
+        <img src="./assets/example-01.png" width="100%">
     </h4>
 </div>
 'a photo of a black sloth plushie'
 <div>
     <h4 align="center">
-        <img src="./assets/example-02.png" width="70%">
+        <img src="./assets/example-02.png" width="100%">
     </h4>
 </div>
 'a photo of a polygonal illustration duck toy'
 <div>
     <h4 align="center">
-        <img src="./assets/example-03.png" width="70%">
+        <img src="./assets/example-03.png" width="100%">
     </h4>
 </div>
 'a photo of a purple plushie toy'
 <div>
     <h4 align="center">
-        <img src="./assets/example-04.png" width="70%">
+        <img src="./assets/example-04.png" width="100%">
     </h4>
 </div>
 'a photo of a sculpture golden retriever'
 <div>
     <h4 align="center">
-        <img src="./assets/example-05.png" width="70%">
+        <img src="./assets/example-05.png" width="100%">
     </h4>
 </div>
 'a photo of a red clock'
 <div>
     <h4 align="center">
-        <img src="./assets/example-06.png" width="70%">
+        <img src="./assets/example-06.png" width="100%">
     </h4>
 </div>
 Please note that if the generated results contain significant artifacts, adjust the random seed `--seed` to obtain the desired outcome. We demonstrate that different random seeds can produce varying image quality in the demo.
@@ -106,7 +106,7 @@ Please note that if the generated results contain significant artifacts, adjust 
 'a photo of a black sloth plushie'
 <div>
     <h4 align="center">
-        <img src="./assets/seed.jpg" width="70%">
+        <img src="./assets/seed.jpg" width="100%">
     </h4>
 </div>
 
