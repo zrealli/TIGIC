@@ -63,30 +63,35 @@ From left to right, the images are the background, subject, collage, and the res
         <img src="./assets/example-01.png" width="100%">
     </h4>
 </div>
+
 *'a photo of a black sloth plushie'*
 <div>
     <h4 align="center">
         <img src="./assets/example-02.png" width="100%">
     </h4>
 </div>
+
 *'a photo of a polygonal illustration duck toy'*
 <div>
     <h4 align="center">
         <img src="./assets/example-03.png" width="100%">
     </h4>
 </div>
+
 *'a photo of a purple plushie toy'*
 <div>
     <h4 align="center">
         <img src="./assets/example-04.png" width="100%">
     </h4>
 </div>
+
 *'a photo of a sculpture golden retriever'*
 <div>
     <h4 align="center">
         <img src="./assets/example-05.png" width="100%">
     </h4>
 </div>
+
 *'a photo of a red clock'*
 <div>
     <h4 align="center">
