@@ -1,1 +1,0 @@
-python run.py --ckpt ./ckpt/v2-1_512-ema-pruned.ckpt --dpm_steps 20 --outdir ./outputs --root ./examples --scale 5 --seed 42
