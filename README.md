@@ -1,4 +1,4 @@
-# Tuning-Free Image Customization with Image and Text Guidance
+# Tuning-Free Image Customization with Image and Text Guidance (ECCV 2024)
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2403.12658)
 [![Project Page](https://img.shields.io/badge/Project-Website-5B7493?logo=googlechrome&logoColor=5B7493)](https://zrealli.github.io/TIGIC)
@@ -6,7 +6,7 @@
 
 
 This repository contains the official implementation of the following paper:
-> **Tuning-Free Image Customization with Image and Text Guidance (ECCV 2024)** <br>
+> **Tuning-Free Image Customization with Image and Text Guidance** <br>
 
 <div>
     <h4 align="center">
