@@ -6,7 +6,7 @@
 
 
 This repository contains the official implementation of the following paper:
-> **Tuning-Free Image Customization with Image and Text Guidance** <br>
+> **Tuning-Free Image Customization with Image and Text Guidance (ECCV 2024)** <br>
 
 <div>
     <h4 align="center">
